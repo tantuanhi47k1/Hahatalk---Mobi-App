@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525057191871",
+    "project_id": "hahatalk-4c818",
+    "storage_bucket": "hahatalk-4c818.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525057191871:android:a779021d9db8b0a70e3b0a",
+        "android_client_info": {
+          "package_name": "com.example.hahatalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIYJUbS31A7CID-iOCe2X45brNCN9b0HM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
